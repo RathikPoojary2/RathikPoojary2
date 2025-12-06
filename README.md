@@ -1,3 +1,6 @@
+# 💫 About Me:
+👯 I’m looking to collaborate on<br><br>Machine learning projects, backend development, and innovative app ideas.<br><br>🤝 I’m looking for help with<br><br>Improving model accuracy, optimizing APIs, and exploring scalable architectures.<br><br>🌱 I’m currently learning<br><br>Advanced ML techniques, cloud services, and modern backend frameworks.<br><br>💬 Ask me about<br><br>Python, ML models, web development, APIs, and project architecture.<br><br>⚡ Fun fact<br><br>I enjoy turning real-life problems into simple tech solutions!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rathik__poojary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rathik-poojary-9b784925b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathikpoojary2@gmail.com) 
