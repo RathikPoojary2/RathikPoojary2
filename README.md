@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, I'm Rathik!
+Hi, I'm Rathik Poojary!
 I build projects in web development, machine learning, and data analysis. I love creating practical solutions, exploring new technologies, and sharing what I learn.
 
 
