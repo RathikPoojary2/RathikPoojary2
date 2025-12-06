@@ -1,5 +1,6 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br><br>Machine learning projects, backend development, and innovative app ideas.<br><br>🤝 I’m looking for help with<br><br>Improving model accuracy, optimizing APIs, and exploring scalable architectures.<br><br>🌱 I’m currently learning<br><br>Advanced ML techniques, cloud services, and modern backend frameworks.<br><br>💬 Ask me about<br><br>Python, ML models, web development, APIs, and project architecture.<br><br>⚡ Fun fact<br><br>I enjoy turning real-life problems into simple tech solutions!
+Hi, I'm Rathik!
+I build projects in web development, machine learning, and data analysis. I love creating practical solutions, exploring new technologies, and sharing what I learn.
 
 
 ## 🌐 Socials:
